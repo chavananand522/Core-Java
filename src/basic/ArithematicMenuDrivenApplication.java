@@ -34,13 +34,13 @@ public class ArithematicMenuDrivenApplication {
 					System.out.println("Sum =" + (num1 + num2));
 					break;
 				case 2:
-					System.out.println("Sum =" + (num1 - num2));
+					System.out.println("Diffrence =" + (num1 - num2));
 					break;
 				case 3:
-					System.out.println("Sum =" + (num1 * num2));
+					System.out.println("Product =" + (num1 * num2));
 					break;
 				case 4:
-					System.out.println("Sum =" + (num1 / num2));
+					System.out.println("Division =" + (num1 / num2));
 					break;
 
 				}
